@@ -1,0 +1,15 @@
+{
+  "originHash" : "9d9efbc48f63306acd5a6d563a6c9c92f02254228491672d838a065e9e5f4ff2",
+  "pins" : [
+    {
+      "identity" : "myfirstlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sea-lene/MyFirstLibrary",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7a6647d954363108f9a83e9548cc97449787ceba"
+      }
+    }
+  ],
+  "version" : 3
+}
